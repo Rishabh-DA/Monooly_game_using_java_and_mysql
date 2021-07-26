@@ -1,1 +1,1 @@
-# Monooly_game_using_java_and_mysql
+# Monopoly_game_using_java_and_mysql
